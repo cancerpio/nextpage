@@ -1,5 +1,5 @@
 # NextPage
- - A training programming website for various types of training, including powerlifting, weightlifting, and aerobic exercise. 
+ - A training program recorder for various types of exercise, including powerlifting, weightlifting, and aerobic activities.
  - Use the Line bot to record your training performance.
  - (TBD) Frontend: Organize the training records into charts to track long-term trends.
  - (TBD) Frontend: Create a training schedule.
