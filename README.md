@@ -6,7 +6,7 @@
 
 # System Diagram
 ![alt text](https://github.com/cancerpio/nextpage/blob/master/Backend_diagram.png)
-# Tchnique stack
+# Technique stack
  - Cloud & Container
    - AWS Lambda, API Gateway, EC2, Docker
  - DB & Message queue
