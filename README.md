@@ -5,7 +5,7 @@
  - (TBD) Frontend: Create a training schedule.
 
 # System Diagram
-![alt text](https://github.com/cancerpio/nextpage/blob/master/Backend%E6%9E%B6%E6%A7%8B%E5%9C%96.drawio.png)
+![alt text](https://github.com/cancerpio/nextpage/blob/master/Backend%E6%9E%B6%E6%A7%8B%E5%9C%96.drawio%20(1).png)
 # Technique stack
  - Cloud & Container
    - AWS Lambda, API Gateway, EC2, Docker
